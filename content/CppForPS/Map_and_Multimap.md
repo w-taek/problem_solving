@@ -38,7 +38,7 @@ debugInConsole: false # Print debug info in Obsidian console
 - 데이터가 100만 개($10^6$)일 때
 	- 약 20번의 비교만으로 원하는 데이터를 찾을 수 있음
 - **주의**
-	- [[boj_20920]] 처럼 
+	- [[EachProblem/boj_2212]] 처럼 
 		- 정렬 상태가 유지될 필요가 없는
 		- 단순 빈도 계산 작업
 		- `unordered_map`의 $O(1)$보다 느릴 수 있음.
