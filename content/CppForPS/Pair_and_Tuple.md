@@ -9,7 +9,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 ---
 - Go to MOC
-	- [[C++_Index]]
+	- [[MOC-C++]]
 ---
 # 1. std::pair
 - 두 개의 서로 다른 타입의 데이터를 하나로 묶어주는 템플릿 클래스

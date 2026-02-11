@@ -9,7 +9,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 ---
 - Go to MOC
-	- [[C++_Index]]
+	- [[MOC-C++]]
 ---
 ## 1. 차원 제거 (Dimension Reduction)
 - 두 가지 변수 중 하나를 정렬함으로써

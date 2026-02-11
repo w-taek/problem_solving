@@ -9,7 +9,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 ---
 - Go to MOC
-	- [[C++_Index]]
+	- [[MOC-C++]]
 ---
 # 1. 핵심 개념
 ## `std::map`
