@@ -22,8 +22,8 @@ debugInConsole: false # Print debug info in Obsidian console
 ---
 # 3. 내림차순 정렬
 
-## 3.1. 역방향 반복자 (`rbegin()`, `rend()`)
-
+## 3.1. 역방향 반복자 
+- Interation Interface : `rbegin()`, `rend()`
 > [!fag]- \[역방향 반복자\] 참고
 > [[Iterator_Interface#2.2. 역방향 순회 (Reverse)]]
 
