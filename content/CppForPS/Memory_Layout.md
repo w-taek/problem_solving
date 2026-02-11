@@ -9,7 +9,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 ---
 - Go to MOC
-	- [[C++_Index.md]]
+	- [[C++_Index]]
 ---
 # 1. C++ 프로그램의 메모리 구조
 - 프로그램이 실행될 때 운영체제로부터 할당받는 영역

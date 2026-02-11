@@ -1,3 +1,3 @@
 
 # c++ for Problem Solving
-[[CppForPS/C++_Index.md]]
+[[C++_Index]]

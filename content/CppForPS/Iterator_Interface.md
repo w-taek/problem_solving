@@ -9,7 +9,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 ---
 - Go to MOC
-	- [[C++_Index.md]]
+	- [[C++_Index]]
 ---
 # 1. 핵심 개념
 ## 추상화된 포인터
