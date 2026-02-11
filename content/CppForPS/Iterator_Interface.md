@@ -60,7 +60,7 @@ for (auto it = sticks.rbegin(); it != sticks.rend(); ++it) {
 
 > [!fag]- \[역방향 반복자 & 내림차순 정렬\] 참고
 > - [[Memory_Layout#연속적 메모리 (Contiguous Memory)]]
-> - [[Sort_Functions]]
+> - [[Sort_Functions#3.1. 역방향 반복자 (`rbegin()`, `rend()`)]]
 
 ---
 # 3. Range-based for loop (향상된 for문)

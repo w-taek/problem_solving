@@ -1,3 +1,4 @@
+
 ```table-of-contents
 title: 
 style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
@@ -7,7 +8,8 @@ includeLinks: true # Make headings clickable
 hideWhenEmpty: false # Hide TOC if no headings are found
 debugInConsole: false # Print debug info in Obsidian console
 ```
----
+
+
 ---
 - Go to MOC
 	- [[MOC-C++]]
@@ -23,7 +25,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ## 3.1. 역방향 반복자 (`rbegin()`, `rend()`)
 
 > [!fag]- \[역방향 반복자\] 참고
-> - [[Iterator_Interface## 2.2. 역방향 순회 (Reverse)]]
+> [[Iterator_Interface#2.2. 역방향 순회 (Reverse)]]
 
 - `std::sort()`
 > [!fag]- `std::sort` 공식 문서
