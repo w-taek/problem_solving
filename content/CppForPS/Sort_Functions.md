@@ -25,8 +25,8 @@ debugInConsole: false # Print debug info in Obsidian console
 ## 3.1. 역방향 반복자
 - Interation Interface : `rbegin()`, `rend()`
 > [!fag]- \[역방향 반복자\] 참고
-> [[Iterator_Interface#반복자의 위치 정의]]
-> [[Iterator_Interface#2.2. 역방향 순회 (Reverse)]]
+> - [[Iterator_Interface#반복자의 위치 정의]]
+> - [[Iterator_Interface#2.2. 역방향 순회 (Reverse)]]
 
 - `std::sort()`
 > [!fag]- `std::sort` 공식 문서
