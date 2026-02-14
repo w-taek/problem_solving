@@ -47,7 +47,7 @@ export default ((opts: Options) => {
         data-category-id={opts.options.categoryId}
         data-mapping={opts.options.mapping ?? "url"}
 
-        data-term={opts.options.term} // addtion
+        data-term={fileData.frontmatter?.id as string} // addtion
 
         data-strict={boolToStringBool(opts.options.strict ?? true)}
         data-reactions-enabled={boolToStringBool(opts.options.reactionsEnabled ?? true)}
