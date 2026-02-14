@@ -2,7 +2,7 @@
 id: 20260215020616330000
 title: Pointer_and_Reference
 date: 2026-02-15
-comments: "true"
+comments: true
 ---
 
 ```table-of-contents

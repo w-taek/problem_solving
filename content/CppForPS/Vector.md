@@ -1,8 +1,10 @@
 ---
 id: 20260215020616372000
-title: Vector
-date: 2026-02-15
-comments: "true"
+title: "Vector"
+date: "2025-02-07"
+tags: []
+comments: true
+draft: false
 ---
 
 ```table-of-contents

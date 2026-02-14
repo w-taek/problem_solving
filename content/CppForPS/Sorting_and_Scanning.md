@@ -2,7 +2,7 @@
 id: 20260215020616557000
 title: Sorting_and_Scanning
 date: 2026-02-15
-comments: "true"
+comments: true
 ---
 
 ```table-of-contents
