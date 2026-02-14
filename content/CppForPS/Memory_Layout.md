@@ -1,3 +1,10 @@
+---
+id: 20260215020616350000
+title: Memory_Layout
+date: 2026-02-15
+comments: "true"
+---
+
 ```table-of-contents
 title: 
 style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)

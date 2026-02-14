@@ -1,3 +1,10 @@
+---
+id: 20260215020616372000
+title: Vector
+date: 2026-02-15
+comments: "true"
+---
+
 ```table-of-contents
 title: 
 style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)

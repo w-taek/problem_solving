@@ -1,3 +1,10 @@
+---
+id: 20260215020616417000
+title: Iterator_Interface
+date: 2026-02-15
+comments: "true"
+---
+
 ```table-of-contents
 title: 
 style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)

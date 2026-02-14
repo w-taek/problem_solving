@@ -1,3 +1,10 @@
+---
+id: 20260215020616600000
+title: Pair_and_Tuple
+date: 2026-02-15
+comments: "true"
+---
+
 ```table-of-contents
 title: 
 style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)

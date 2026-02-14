@@ -5,7 +5,34 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    // ▼▼▼ 여기서부터 복사해서 붙여넣으세요 ▼▼▼
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // 1. 저장소 정보 (주신 스크립트 내용 그대로 적용)
+        repo: 'w-taek/problem_solving',
+        repoId: 'R_kgDORN5uzA',
+        
+        // 2. 카테고리 정보
+        category: 'Announcements',
+        categoryId: 'DIC_kwDORN5uzM4C2WgT',
+        
+        // 3. ★ 핵심 매핑 설정 (여기가 제일 중요합니다!)
+        // Giscus 스크립트의 data-mapping="specific" 에 해당
+        mapping: 'specific', 
+        
+        // Giscus 스크립트의 data-term="id" 에 해당 (Frontmatter의 id 값 사용)
+        term: 'id',
+        
+        // 4. 기타 UI 설정 (스크립트의 나머지 옵션들)
+        strict: false,          // data-strict="0"
+        reactionsEnabled: true, // data-reactions-enabled="1"
+        inputPosition: 'top',   // data-input-position="top"
+      }
+    }),
+    // ▲▲▲ 여기까지 ▲▲▲
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
