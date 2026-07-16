@@ -71,14 +71,8 @@ jobs:
           token: ${{ secrets.NOTES_TOKEN }}
       - name: Place notes into content
         run: |
-          echo "=== PWD ==="; pwd
-          echo "=== ls workspace root ==="; ls -la
-          echo "=== ls notes-src ==="; ls -la notes-src || echo "NO notes-src"
-          echo "=== ls notes-src/PS ==="; ls -la notes-src/PS || echo "NO notes-src/PS"
           rm -rf content
           cp -R notes-src/PS content
-          echo "=== ls content ==="; ls -la content || echo "NO content"
-          echo "=== find content ==="; find content -maxdepth 2 | head -40
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
